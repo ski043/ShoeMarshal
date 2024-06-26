@@ -7,10 +7,12 @@ import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
 import { ShoppingBag } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
+import { unstable_noStore as noStore } from "next/cache";
 
 import { redirect } from "next/navigation";
 
 export default async function BagRoute() {
+  noStore();
   const { getUser } = getKindeServerSession();
   const user = await getUser();
 
