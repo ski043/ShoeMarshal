@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Create an E-Commerce Store using Next.js, Kinde-Auth, Neon, Upstache, Prisma, Stripe and Tailwind
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🌟 Hey Everyone, Welcome back to the Channel. Today we are going to build an E-Commerce Store which has an admin dashboard and a storefront. To build/create this whole video we will use the newest tech on the market which means: Next.js, Kinde-Auth, Neon, Prisma, Stripe, Tailwindcss, Shadcn/UI, Vercel, Upstash and much more. This is a Full Stack tutorial, which means we will build everything from start to finish!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🚀 Kinde Auth: https://dub.sh/xeU8r3v
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 👨🏻‍💻 GitHub Repository: https://janmarshal.com/courses/build-an-e-commerce-store-using-next-js-kinde-auth-neon-upstache-prisma-stripe-and-tailwind
+- 🌍 My Website: https://www.janmarshal.com
+- ✅ Follow me on X: https://x.com/janmarshaldev
+- 📧 Business ONLY: jan@alenix.de 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+Features: 
+- 🌐 Next.js App Router
+- 🔐 Kinde Authentication with MFA
+- 📧 Passwordless Auth
+- 🔑 OAuth (Google and GitHub)
+- 💰Payments using Stripe 
+- 🪝 Implementation of Stripe Webhooks
+- 💿 Neon Database
+- 💨 Prisma Orm
+- 🚀 Upstash Redis for Cart functionality
+- 📈 Recharts for displaying Charts
+- ✅ Server Validation using Zod and Conform
+- 🗂️ File Upload with Uploadthing
+- 🎨 Styling with Tailwindcss and Shadcn UI
+- 😶‍🌫️ Deployment to vercel
 
-To learn more about Next.js, take a look at the following resources:
+- React Streaming
+- Stripe Checkout page
+- Server side implementation 
+- Performance Optimized
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Resources used:
+- Next.js: https://nextjs.org
+- Kinde: https://dub.sh/xeU8r3v
+- Tailwind.css: https://tailwindcss.com
+- Shadcn/UI: https://ui.shadcn.com
+- Stripe: https://stripe.com
+- Prisma: https://prisma.io
+- Neon: https://neon.tech/
+- Recharts: https://recharts.org/
+- Upstash: https://upstash.com/
